@@ -38,8 +38,8 @@ In this repository, I am **committed to mastering Dart** by solving **1 problem 
 | 3   | Problem Name 3 | ✅ Done |
 | …   | …             | …     |
 
-*Total Days Practiced:  1  
-*Total Problems Solved: 1  
+*Total Days Practiced:* `1`  
+*Total Problems Solved:* `1` 
 
 ---
 
